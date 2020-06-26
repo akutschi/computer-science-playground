@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -Wall
-APPLICATION = grade-school-multiplication
+APPLICATION = grade-school-multiplication-vector
 
 SRC_DIR = src
 BIN_DIR = bin
